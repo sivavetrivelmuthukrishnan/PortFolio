@@ -12,7 +12,7 @@ const Resume = () => {
     <div className='flex flex-col justify-center text-white'>
           <h1 className='text-4xl text-white border-b-4 border-[] mb-5 w-[130px] font-bold'>Resume</h1>
        
-        <p>You can view my resume <a className='btn' href='#'>Download</a></p>
+        <p>You can view my resume <a className='btn' href='file:///C:/Users/Asus/Downloads/SIVAVETRIVEL%20Mern%20Resum.pdf'>Download</a></p>
     </div>
        
     </div>
